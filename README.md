@@ -1,7 +1,7 @@
 
 # Sistema de pago
 
-El objetivo de este sistema es proporcionar una plataforma de autogestión para que los clientes puedan gestionar y realizar pagos utilizando diferentes métodos de pago. El sistema permite a los usuarios interactuar con un menú de opciones, donde podrán:
+> El objetivo de este sistema es proporcionar una plataforma de autogestión para que los clientes puedan gestionar y realizar pagos utilizando diferentes métodos de pago. El sistema permite a los usuarios interactuar con un menú de opciones, donde podrán:
 
 1.  **Consultar su saldo disponible**: Verificar el monto que tienen disponible en su método de pago.
 2.  **Realizar pagos**: Elegir la opción de pagar por un monto específico.

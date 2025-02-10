@@ -18,4 +18,4 @@
 7. Condicionales y bucles.
 
 ## IDE
-1. NetBeans.
+- NetBeans.

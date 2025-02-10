@@ -16,4 +16,6 @@
 5.  Encapsulacion.
 6. Sobrescritura de metedos.
 7. Condicionales y bucles.
-8.  IDE NetBeans.
+
+## IDE
+1. NetBeans.
